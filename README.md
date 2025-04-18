@@ -29,4 +29,4 @@ Submitted to the 2024 KER International Conference
 
 ### 📬 Contact
 📧 na32@assembly.go.kr  
-🌐 [Homepage](https://jhkim-econ.github.io/jhkim-econ) | [CV (PDF)](https://jhkim-econ.github.io/assets/Junghwan_Kim_CV.pdf)
+🌐 [Homepage](https://jhkim-econ.github.io/jhkim-econ) | [CV (PDF)](https://jhkim-econ.github.io/jhkim-econ/assets/Junghwan_Kim_CV.pdf)
