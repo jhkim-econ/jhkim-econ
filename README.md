@@ -17,7 +17,7 @@ My current research uses heterogeneous-agent OLG models to study work hour regul
 ### 📝 Working Paper
 **Labor Hour Spillovers and Crowd-out of Educational Spending**  
 Submitted to the 2024 KER International Conference  
-[📄 SSRN](https://ssrn.com/abstract/xxxxxx) | [🧮 GitHub Model Code](https://github.com/jhkim-econ/spillover-model)
+[📄 SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5214642) 
 
 ---
 
@@ -29,4 +29,4 @@ Submitted to the 2024 KER International Conference
 
 ### 📬 Contact
 📧 na32@assembly.go.kr  
-🌐 [Homepage](https://jhkim-econ.github.io) | [CV (PDF)](https://jhkim-econ.github.io/assets/files/CV.pdf)
+🌐 [Homepage](https://jhkim-econ.github.io/jhkim-econ) | [CV (PDF)](https://jhkim-econ.github.io/assets/files/CV.pdf)
