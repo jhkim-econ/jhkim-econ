@@ -1,16 +1,32 @@
-## Hi there 👋
+## 👋 Hello! I'm Junghwan Kim  
+🎓 Labor Economist | Policy Researcher | General Equilibrium Modeling  
 
-<!--
-**jhkim-econ/jhkim-econ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a legislative research officer at the National Assembly of South Korea, focusing on labor market reform, education inequality, and structural policy evaluation.  
+My current research uses heterogeneous-agent OLG models to study work hour regulation and household behavior.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Research Interests
+- Labor Economics & Structural Reforms  
+- Fertility, Education, and Inequality  
+- OLG & Heterogeneous-Agent Models  
+- Applied Microeconomics
+
+---
+
+### 📝 Working Paper
+**Labor Hour Spillovers and Crowd-out of Educational Spending**  
+Submitted to the 2024 KER International Conference  
+[📄 SSRN](https://ssrn.com/abstract/xxxxxx) | [🧮 GitHub Model Code](https://github.com/jhkim-econ/spillover-model)
+
+---
+
+### 🧩 Other Work
+- 🇰🇷 Budget Analysis & Program Evaluation @ National Assembly  
+- 📘 [Disaster Insurance Policy](https://example.com) | 📕 [Social Safety Net Review](https://example.com)
+
+---
+
+### 📬 Contact
+📧 na32@assembly.go.kr  
+🌐 [Homepage](https://jhkim-econ.github.io) | [CV (PDF)](https://jhkim-econ.github.io/assets/files/CV.pdf)
